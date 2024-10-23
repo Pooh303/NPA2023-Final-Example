@@ -1,7 +1,7 @@
 # NPA2023 Final Example
 
-- Name/Surname:
-- Student ID:
+- Name/Surname: Phowadol Sriphanna
+- Student ID: 65070182
 - GitHub repository URL:
 
 ## Instruction
@@ -23,8 +23,8 @@
 
 ## The examinee will
 
-1. Import libraries for API requests, JSON formatting, and time.
-2. Assign the Webex hard-coded access token to the variable accessToken.
+<!-- 1. Import libraries for API requests, JSON formatting, and time. -->
+<!-- 2. Assign the Webex hard-coded access token to the variable accessToken. -->
 3. Prepare GetParameters to get the latest message for messages API.
 4. Provide the URL to the Webex Teams messages API and extract location from the received message.
 5. Provide your openweather Geocoding APIGetParameters.
